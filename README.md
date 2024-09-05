@@ -14,6 +14,6 @@
 
 ### Preview 
 
-![Preview 01]("https://github.com/andreovski/lazlink-preview/blob/master/src/assets/preview/lazlink_preview.gif")
+![Preview 01](https://github.com/andreovski/lazlink-preview/blob/master/src/assets/preview/lazlink_preview.gif)
 
-![Preview 02]("https://github.com/andreovski/lazlink-preview/blob/master/src/assets/preview/client_preview_lazlink.gif")
+![Preview 02](https://github.com/andreovski/lazlink-preview/blob/master/src/assets/preview/client_preview_lazlink.gif)
